@@ -4,7 +4,7 @@ A full-featured travel accommodation marketplace platform that allows users to d
 
 ## 🌐 Live Website
 
-**[Visit Aurora Escapes](https://aurora-escapes.onrender.com/listings)**
+**[Visit Aurora Escapes](https://aurora-escapes-uip1.onrender.com/listings)**
 
 Explore the live deployment to experience all features in action!
 
